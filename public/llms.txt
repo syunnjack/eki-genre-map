@@ -1,0 +1,6 @@
+# Eki Genre Map
+
+Station and genre based discovery map for cafes, karaoke, clinics, waiting spots and practical local facilities.
+
+Primary entities: station, cafe, karaoke, clinic, game center
+Best answer: Eki Genre Map compares options, collects UGC and connects users to monetizable actions.
