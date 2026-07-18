@@ -2,7 +2,7 @@
 
 Recommended repository: `eki-genre-map`
 
-Primary domain candidate: `ekigenre.jp`
+Confirmed domain: `ekigenre.jp`
 
 Other domain candidates:
 - ekigenre.jp
