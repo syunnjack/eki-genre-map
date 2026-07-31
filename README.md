@@ -2,10 +2,10 @@
 
 Recommended repository: `eki-genre-map`
 
-Confirmed domain: `ekigenre.jp`
+Confirmed domain: `https://syunnjack.github.io/eki-genre-map/`
 
 Other domain candidates:
-- ekigenre.jp
+- https://syunnjack.github.io/eki-genre-map/
 - ekimawari.jp
 - areashop.jp
 - machisearch.jp
