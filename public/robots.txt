@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ekigenre.jp/sitemap.xml
+
+Sitemap: https://eki-genre-map.vercel.app/sitemap.xml
