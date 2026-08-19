@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://ekigenre.jp/sitemap.xml
+Disallow: /
